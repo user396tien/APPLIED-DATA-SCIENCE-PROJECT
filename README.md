@@ -52,5 +52,3 @@ Through meticulous data analysis, feature engineering, and model tuning, this pr
 ## Acknowledgments
 - **IBM**: For providing the course and learning materials.
 - **Coursera**: For the platform to access and complete the course.
-
-Explore this repository to dive into the complete workflow, methodologies, and innovative techniques employed in this capstone project. Whether you're a data science enthusiast, a space exploration aficionado, or a professional seeking insights into predictive modeling, this project offers something for everyone.
